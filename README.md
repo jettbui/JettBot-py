@@ -5,7 +5,7 @@
 ## Table of Contents
 
 * [Installation](#installation)
-* [Usage](#support)
+* [Usage](#usage)
 * [License](#license)
 
 ## Installation
@@ -20,7 +20,7 @@ The bot may be run locally or using a cloud platform such as [Heroku](https://ww
 Clone the repository files:
 
 ``` bash
-git clone https://github.com/jettbui/JettBot.git
+git clone https://github.com/jettbui/JettBot-py.git
 ```
 
 Open 'bot.py' with a text editor and change the following line to your bot's Discord API token:
@@ -72,4 +72,4 @@ Utility
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/jettbui/JettBot-py/blob/master/LICENSE.md)
